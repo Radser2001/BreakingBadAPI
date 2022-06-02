@@ -1,3 +1,15 @@
+<h1 align="center">Breaking Bad API</h1>
+
+<a href='https://breakingbadradser2001.netlify.app/' ><h3 >Live Site</h3></a>
+
+The purpose of this projrct to practice React.js and API fetching
+
+This website uses the breaking bad api of the breakingbadapi.com
+
+![BreakingBadInfoSite](/Screenshots/breakingbad.png)
+
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
