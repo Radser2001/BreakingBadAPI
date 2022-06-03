@@ -11,22 +11,25 @@ const CharacterItem = ({ item }) => {
           <h1>{item.name}</h1>
           <ul>
             <li>
-              Actor Name: <strong>{item.portrayed}</strong>
+              Actor Name <br />
+              <strong style={{ textAlign: "center" }}>{item.portrayed}</strong>
             </li>
             <li>
-              Nickname: <strong>{item.nickname}</strong>
+              Nickname <br />
+              <strong>{item.nickname}</strong>
             </li>
             <li>
-              Birthday: <strong>{item.birthday}</strong>
+              Birthday <br />
+              <strong>{item.birthday}</strong>
             </li>
             <li>
-              Status:{" "}
+              Occupation
               <strong>
                 {item.occupation.map((job) => (
-                  <strong style={{ textAlign: "center" }}>
-                    {job}
+                  <>
                     <br />
-                  </strong>
+                    <strong style={{ textAlign: "center" }}>{job}</strong>
+                  </>
                 ))}
               </strong>
             </li>
