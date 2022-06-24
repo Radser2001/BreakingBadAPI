@@ -2,7 +2,7 @@
 
 <a href='https://breakingbadradser2001.netlify.app/' ><h3 >Live Site</h3></a>
 
-The purpose of this projrct to practice React.js and API fetching
+The purpose of this project is to practice React.js and API fetching
 
 This website uses the breaking bad api of the breakingbadapi.com
 
